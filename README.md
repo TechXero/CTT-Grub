@@ -1,6 +1,6 @@
 # ChrisTitus Grub Theme
 
-![CTTGrub](https://imghost.techxero.com/images/iEN.png)
+![CTTGrub](https://imghost.techxero.com/images/9C0.png)
 
 This is where ChrisTitus Grub Theme will be. Constantly updated so keep coming back. I included a script that makes installing much easier, just follow steps below :<br />
 
